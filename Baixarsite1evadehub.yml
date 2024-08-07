@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Davizinhofprest/Evade-hub/main/.github/workflows/blank.yml"))()
